@@ -1,8 +1,26 @@
 aid: ciphercloud
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/ciphercloud.png
 name: CipherCloud
-description: CipherCloud is a company surfaced as a portfolio company of a16z, index-ventures and added
-  to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment
-  pipeline.
+description: CipherCloud was a cloud security company, founded in 2010, that pioneered the cloud access
+  security broker (CASB) category. Its platform provided encryption and tokenization, data loss prevention,
+  cloud discovery and shadow IT visibility, threat protection, and compliance controls for SaaS applications
+  such as Salesforce, Office 365, ServiceNow, and Box. Backed by Andreessen Horowitz (a16z) and Index
+  Ventures among others, CipherCloud was acquired by mobile and cloud security vendor Lookout in early 2021,
+  and its CASB technology was folded into Lookout's Secure Cloud Access offering. The standalone ciphercloud.com
+  developer and product surface has since been retired; this profile is retained in the API Evangelist network
+  as a historical company record. No live public API, developer portal, OpenAPI, or documentation surface
+  could be located during enrichment (ciphercloud.com returns HTTP 404 and no developer/docs subdomains resolve).
 url: https://raw.githubusercontent.com/api-evangelist/ciphercloud/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,11 +29,20 @@ x-backed-by:
 - index-ventures
 x-tier: stub
 x-tier-reason: portfolio-lead
+x-status: acquired
+x-acquired-by: Lookout
+x-acquired-year: 2021
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
 tags:
 - Company
+- Security
+- Cloud Security
+- CASB
+- Data Protection
+- Encryption
+- Compliance
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,3 +52,8 @@ maintainers:
 common:
 - type: Website
   url: http://ciphercloud.com
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
