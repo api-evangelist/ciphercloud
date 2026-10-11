@@ -1,0 +1,11 @@
+[
+  {
+    "repo": "ciphercloud",
+    "captured_at": "2026-10-11T184250",
+    "source_url": "http://ciphercloud.com",
+    "source_type": "Website",
+    "file": "ciphercloud-2026-10-11T184250.png",
+    "bytes": 8180,
+    "capture": "playwright-local"
+  }
+]
