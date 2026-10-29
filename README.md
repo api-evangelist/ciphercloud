@@ -64,6 +64,34 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-CipherCloud is a company surfaced as a portfolio company of a16z, index-ventures and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+> **Acquired or rebranded.** This company was acquired, merged or renamed. Its API, if it still exists, is offered under another name. This profile is kept as a historical record and is not maintained or rated.
 
-Backed by: a16z, index-ventures — http://ciphercloud.com
+CipherCloud was a cloud security company, founded in 2010, that pioneered the cloud access security broker (CASB) category. Its platform provided encryption and tokenization, data loss prevention, cloud discovery and shadow IT visibility, threat protection, and compliance controls for SaaS applications such as Salesforce, Office 365, ServiceNow, and Box. Backed by Andreessen Horowitz (a16z) and Index Ventures among others, CipherCloud was acquired by mobile and cloud security vendor Lookout in early 2021, and its CASB technology was folded into Lookout's Secure Cloud Access offering. The standalone ciphercloud.com developer and product surface has since been retired; this profile is retained in the API Evangelist network as a historical company record. No live public API, developer portal, OpenAPI, or documentation surface could be located during enrichment (ciphercloud.com returns HTTP 404 and no developer/docs subdomains resolve).
+
+**Areas:** Company · Security · Cloud Security · CASB · Data Protection · Encryption · Compliance
+
+## CipherCloud on APIs.io (historical record)
+
+Everything profiled for CipherCloud is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/ciphercloud/](https://apis.io/providers/ciphercloud/)** — or go straight to one of the APIs or properties below.
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](http://ciphercloud.com)
+
+## API Evangelist rating
+
+**Not rated** — this company is recorded as acquired or rebranded, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for CipherCloud: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/ciphercloud/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
